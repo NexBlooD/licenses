@@ -1,4 +1,12 @@
 {
-  "ABC123-FELIPE": false,
-  "XYZ789-TOKEN": true
+  "ABC123-FELIPE": {
+    "ativo": true,
+    "validade": "2025-07-10",
+    "hwid": "FELIPE-PC-9C7F4A"  // <- este valor é único por máquina
+  },
+  "XYZ789-JOAO": {
+    "ativo": true,
+    "validade": "2025-07-15",
+    "hwid": "DESKTOP-XYZ123"
+  }
 }
