@@ -1,10 +1,12 @@
 {
-  "b4TPcNd2Bx2-FELIPE": {
+  "b4TPcNd2Bx2": {
+    "name": "Felipe",
     "ativo": true,
     "validade": "2025-08-04",
     "hwid": "2b2c4384483e291e"
   },
-  "XYZ789-JOAO": {
+  "A1B2C3D4": {
+    "name": "João",
     "ativo": false,
     "validade": "2025-08-15",
     "hwid": "DESKTOP-XYZ123"
